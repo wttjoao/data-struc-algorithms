@@ -1,4 +1,4 @@
-# Data Structure Algorithsm
+# Data Structure Algorithms
 Set of resolved DSA exercises
 
 - Contains Duplicate (Easy)
